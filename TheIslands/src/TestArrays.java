@@ -1,5 +1,6 @@
 public class TestArrays {
     public static void main(String[] args) {
+
         String [] islands = new String[4];
         islands[0] = "Bermuda";
         islands[1] = "Fiji";
